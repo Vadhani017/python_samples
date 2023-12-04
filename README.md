@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vadhani017
-- 👀 I’m interested in DATA SCIENCE AND VISUALISATION 
+- 👀 I’m interested in DATA ENGINEERING AND SCIENCE
 - 🌱 I’m currently pursuing degree on M.Sc DATA SCIENCE 
 
 
